@@ -27,7 +27,7 @@ There are two things you can do about this warning:
    (quote
     (treemacs-persp treemacs-magit treemacs-icons-dired treemacs-projectile treemacs focus undo-tree doom-modeline auto-package-update spaceline auctex ranger zoom dashboard doom-themes all-the-icons projectile page-break-lines ace-popup-menu elscreen sublimity centaur-tabs use-package ido-completing-read+ smex crux activity-watch-mode helm)))
  '(zoom-mode t nil (zoom))
- '(zoom-size (quote (0.618 . 0.618))))
+'(zoom-size (quote (0.618 . 0.618))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

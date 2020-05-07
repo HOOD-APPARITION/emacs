@@ -20,7 +20,9 @@
 
 ;; ----- ido-dir-file-cache -----
 (
- ("c:/Users/Bast/AppData/Roaming/.emacs.d/" (24243 10218 0 0) "weathericons.ttf" "smex-items" "request/" "recentf~" "recentf" "projectile-bookmarks.eld" "octicons.ttf" "material-design-icons.ttf" "init.el~" "init.el" "ido.last~" "ido.last" "fonts/" "fontawesome.ttf" "file-icons.ttf" "elpa/" "elisp/" "bookmarks" "auto-save-list/" "all-the-icons.ttf" ".emacs_workgroups~" ".emacs_workgroups" "../" "./")
+ ("c:/Users/Bast/" (24243 9275 0 0) "Videos/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "random.dat" "PrintHood/" "Pictures/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "MicrosoftEdgeBackups/" "Local Settings/" "Links/" "jagex_cl_oldschool_LIVE.dat" "jagexcache/" "IntelGraphicsProfiles/" "ggpofba-ng.bkp.ini" "ggpo-ng.ini" "fightcade.log" "fightcade-debug.log" "Favorites/" "emacs_backtrace.txt" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files/" "Cookies/" "Contacts/" "Calibre Library/" "Application Data/" "AppData/" "3D Objects/" ".runelite/" ".cache/" "../" "./")
+
+ ("c:/Users/Bast/AppData/Roaming/.emacs.d/" (24243 22393 0 0) "test.png" "smex-items" "request/" "recentf~" "recentf" "projectile-bookmarks.eld" "init.el~" "init.el" "ido.last~" "ido.last" "fonts/" "elpa/" "elisp/" "bookmarks" "auto-save-list/" ".git/" ".emacs_workgroups~" ".emacs_workgroups" "../" "./")
 
  ("c:/Users/Bast/AppData/Roaming/.emacs.d/fonts/" (24243 6790 0 0) "weathericons.ttf" "octicons.ttf" "material-design-icons.ttf" "fontawesome.ttf" "file-icons.ttf" "all-the-icons.ttf" "../" "./")
 
@@ -31,8 +33,6 @@
  ("c:/Users/Bast/Documents/3s abstraction project/" (24240 26674 0 0) "styles.css" "index.html" "3s_abs.txt" "../" "./")
 
  ("c:/Users/Bast/Documents/" (24240 11894 0 0) "winprivacy/" "wallpapers/" "thoughts/" "test.org~" "test.org" "test.html~" "test.html" "ShareX/" "My Videos/" "My Pictures/" "My Music/" "My Games/" "mredauto.3" "mredauto.1" "mpv/" "KoeiTecmo/" "http%3a%2f%2fmirrors.163.com%2fcygwin%2f/" "emacs/" "Deus Ex -  Mankind Divided/" "desktop.ini" "bios/" "Adobe/" "3s abstraction project/" "#lol#" "../" "./")
-
- ("c:/Users/Bast/" (24238 6535 0 0) "Videos/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "random.dat" "PrintHood/" "Pictures/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "MicrosoftEdgeBackups/" "Local Settings/" "Links/" "jagex_cl_oldschool_LIVE.dat" "jagexcache/" "IntelGraphicsProfiles/" "ggpofba-ng.bkp.ini" "ggpo-ng.ini" "fightcade.log" "fightcade-debug.log" "Favorites/" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files/" "Cookies/" "Contacts/" "Calibre Library/" "Application Data/" "AppData/" "3D Objects/" ".runelite/" ".cache/" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----
