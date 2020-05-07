@@ -10,16 +10,22 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "c:/Users/Bast/Documents/testnotes/"
  "c:/Users/Bast/Documents/3s abstraction project/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "testnotes.org"
  "3s_abs.txt"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("c:/Users/Bast/Documents/testnotes/" (24243 28436 0 0) "testnotes.org" ".#testnotes.org" "../" "./")
+
+ ("c:/Users/Bast/Documents/3s abstraction project/" (24243 28373 0 0) "styles.css" "index.html" "3s_abs.txt~" "3s_abs.tex" "3s_abs.org~" "3s_abs.org" "3s_abs.html~" "3s_abs.html" ".#3s_abs.org" "../" "./")
+
  ("c:/Users/Bast/" (24243 9275 0 0) "Videos/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "random.dat" "PrintHood/" "Pictures/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "MicrosoftEdgeBackups/" "Local Settings/" "Links/" "jagex_cl_oldschool_LIVE.dat" "jagexcache/" "IntelGraphicsProfiles/" "ggpofba-ng.bkp.ini" "ggpo-ng.ini" "fightcade.log" "fightcade-debug.log" "Favorites/" "emacs_backtrace.txt" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files/" "Cookies/" "Contacts/" "Calibre Library/" "Application Data/" "AppData/" "3D Objects/" ".runelite/" ".cache/" "../" "./")
 
  ("c:/Users/Bast/AppData/Roaming/.emacs.d/" (24243 22393 0 0) "test.png" "smex-items" "request/" "recentf~" "recentf" "projectile-bookmarks.eld" "init.el~" "init.el" "ido.last~" "ido.last" "fonts/" "elpa/" "elisp/" "bookmarks" "auto-save-list/" ".git/" ".emacs_workgroups~" ".emacs_workgroups" "../" "./")
@@ -29,8 +35,6 @@
  ("c:/Users/Bast/AppData/" (24232 22901 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
 
  ("c:/Users/Bast/AppData/Roaming/" (24243 1569 0 0) "XnView/" "TS3Client/" "Street Fighter 30th Anniversary Collection/" "Sega/" "Racket/" "obs-studio/" "Notepad++/" "Nightdive Studios/" "mutekicorp/" "mpv/" "Mozilla/" "Microsoft/" "krita/" "Ion Fury/" "GIMP/" "Everything/" "Eidos Montreal/" "Easeware/" "discord/" "calibre/" "BetterDiscord/" "Adobe/" ".emacs.d/" "../" "./")
-
- ("c:/Users/Bast/Documents/3s abstraction project/" (24240 26674 0 0) "styles.css" "index.html" "3s_abs.txt" "../" "./")
 
  ("c:/Users/Bast/Documents/" (24240 11894 0 0) "winprivacy/" "wallpapers/" "thoughts/" "test.org~" "test.org" "test.html~" "test.html" "ShareX/" "My Videos/" "My Pictures/" "My Music/" "My Games/" "mredauto.3" "mredauto.1" "mpv/" "KoeiTecmo/" "http%3a%2f%2fmirrors.163.com%2fcygwin%2f/" "emacs/" "Deus Ex -  Mankind Divided/" "desktop.ini" "bios/" "Adobe/" "3s abstraction project/" "#lol#" "../" "./")
 )

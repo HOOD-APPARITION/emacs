@@ -1,36 +1,40 @@
 
 ;; ----- smex-history -----
 (
- ranger
- eval-buffer
- package-install
- focus-mode
- menu-set-font
+ org-agenda
  load-theme
- zoom-mode
+ evil-escape-mode
+ package-install
+ global-visual-line-mode
+ eval-buffer
+ org-noter
 )
 
 ;; ----- smex-data -----
 (
  (visual-line-mode . 1)
- (global-visual-line-mode . 5)
+ (global-visual-line-mode . 7)
  (crux-find-user-init-file . 1)
  (global-activity-watch-mode . 2)
  (snails . 2)
- (package-install . 26)
- (eval-buffer . 3)
+ (package-install . 41)
+ (eval-buffer . 4)
  (tabbar-mode . 1)
  (sublimity-mode . 2)
  (elscreen-start . 1)
  (all-the-icons-install-fonts . 4)
  (package-refresh-contents . 1)
- (load-theme . 9)
+ (load-theme . 33)
  (customize-group . 1)
- (org-agenda . 1)
+ (org-agenda . 3)
  (all-the-icons-insert . 1)
  (all-the-icons-insert-faicon . 1)
  (zoom-mode . 1)
  (ranger . 3)
  (menu-set-font . 2)
  (focus-mode . 1)
+ (org-preview-latex-fragment . 1)
+ (make-directory . 1)
+ (org-noter . 1)
+ (evil-escape-mode . 1)
 )
