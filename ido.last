@@ -2,6 +2,9 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/yves/" . "Documents/")
+ ("/home/" . "yves/")
+ ("/" . "home/")
  ("c:/Users/Bast/AppData/Roaming/.emacs.d/" . "fonts/")
  ("c:/Users/Bast/AppData/Roaming/" . ".emacs.d/")
  ("c:/Users/Bast/Documents/" . "3s abstraction project/")
@@ -22,6 +25,14 @@
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/yves/Documents/" (24705 5012 582215 53000) "test.org" "../" "./")
+
+ ("/home/yves/" (24705 5012 588881 720000) ".gnupg/" ".fehbg" ".config/" ".icons" "../" ".xinitrc" "./" ".bash_history" ".mozilla/" ".viminfo" ".wget-hsts" ".Xauthority" ".emacs.d/" ".vim/" ".ssh/" ".Xresources" ".cache/" "papes/" ".bash_profile" ".bash_logout" ".bashrc" ".themes" ".screenlayout/" "Documents/" ".local/" "Downloads/" "Desktop/" ".lesshst")
+
+ ("/home/" (24700 48148 406963 294000) "yves/" "../" "./")
+
+ ("/home/yves/.emacs.d/" (24704 51736 251636 89000) "transient/" "smex-items" "projectile-bookmarks.eld" "../" "./" ".git/" "recentf" "ido.last" "fonts/" "auto-save-list/" ".cache/" "recentf~" "init.el" "init.el~" "lum.png" "elpa/" "bookmarks" "lum_r.png" "request/" "ido.last~" "om_themes/")
+
  ("c:/Users/Bast/Documents/testnotes/" (24243 28436 0 0) "testnotes.org" ".#testnotes.org" "../" "./")
 
  ("c:/Users/Bast/Documents/3s abstraction project/" (24243 28373 0 0) "styles.css" "index.html" "3s_abs.txt~" "3s_abs.tex" "3s_abs.org~" "3s_abs.org" "3s_abs.html~" "3s_abs.html" ".#3s_abs.org" "../" "./")
