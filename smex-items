@@ -1,13 +1,13 @@
 
 ;; ----- smex-history -----
 (
+ helm-M-x
  org-agenda
  load-theme
  evil-escape-mode
  package-install
  global-visual-line-mode
  eval-buffer
- org-noter
 )
 
 ;; ----- smex-data -----
@@ -37,4 +37,5 @@
  (make-directory . 1)
  (org-noter . 1)
  (evil-escape-mode . 1)
+ (helm-M-x . 5)
 )

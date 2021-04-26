@@ -13,21 +13,25 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/yves/Documents/"
  "c:/Users/Bast/Documents/testnotes/"
  "c:/Users/Bast/Documents/3s abstraction project/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "based.py"
+ "test.scm"
+ "test.rkt"
  "testnotes.org"
  "3s_abs.txt"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/yves/Documents/" (24705 5012 582215 53000) "test.org" "../" "./")
+ ("/home/yves/Documents/" (24708 22909 964926 605000) "test.org" "../" "./" "test.rkt" "test.scm~" "based.py" "#based.py#" "test.rkt~" "test.scm")
 
- ("/home/yves/" (24705 5012 588881 720000) ".gnupg/" ".fehbg" ".config/" ".icons" "../" ".xinitrc" "./" ".bash_history" ".mozilla/" ".viminfo" ".wget-hsts" ".Xauthority" ".emacs.d/" ".vim/" ".ssh/" ".Xresources" ".cache/" "papes/" ".bash_profile" ".bash_logout" ".bashrc" ".themes" ".screenlayout/" "Documents/" ".local/" "Downloads/" "Desktop/" ".lesshst")
+ ("/home/yves/" (24708 21626 267987 340000) ".gnupg/" ".fehbg" ".config/" ".icons" "../" ".xinitrc" "./" ".bash_history" ".mozilla/" ".viminfo" ".wget-hsts" ".Xauthority" ".emacs.d/" ".python_history" ".vim/" ".ssh/" ".Xresources" ".cache/" "papes/" ".bash_profile" ".bash_logout" ".bashrc" ".gitconfig" ".themes" ".screenlayout/" "Documents/" ".local/" "Downloads/" "Desktop/" ".lesshst")
 
  ("/home/" (24700 48148 406963 294000) "yves/" "../" "./")
 

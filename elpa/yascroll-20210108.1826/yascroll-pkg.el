@@ -1,0 +1,2 @@
+;;; Generated package description from yascroll.el  -*- no-byte-compile: t -*-
+(define-package "yascroll" "20210108.1826" "Yet Another Scroll Bar Mode" '((emacs "26.1")) :commit "b9061340cc15a3ace3ca8c6e54512b481c71acf1" :authors '(("Tomohiro Matsuyama" . "m2ym.pub@gmail.com")) :maintainer '("Shen, Jen-Chieh" . "jcs090218@gmail.com") :keywords '("convenience") :url "https://github.com/emacsorphanage/yascroll")
